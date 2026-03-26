@@ -1,1 +1,5 @@
+<<
 modified c3 in master
+=======
+modified c3 in second
+>>>>>>> first

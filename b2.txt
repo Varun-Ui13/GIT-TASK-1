@@ -1,1 +1,5 @@
+<<<<<<<AD
 modified b2 in master
+=======
+modified b2 in first
+>>>>>>> first

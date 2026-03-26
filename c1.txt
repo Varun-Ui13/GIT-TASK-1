@@ -1,1 +1,5 @@
+AD
 modified c1 in master
+=======
+modified c1 in second
+>>>>>>> first

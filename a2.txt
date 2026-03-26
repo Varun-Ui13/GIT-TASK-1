@@ -1,1 +1,5 @@
+<<<<<<< HD
 modified a2 in master
+=======
+modified a2 in first
+>>>>>>> first
